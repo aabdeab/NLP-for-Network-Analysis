@@ -79,7 +79,7 @@ def import_json_to_neo4j(uri, username, password, database):
 # Set Neo4j connection details
 uri = "bolt://localhost:7687"
 username = "neo4j"
-password = "NLPNLPNLP"
+password = "ur__password"
 database = "nlp"  # Change this to your database name
 
 # Call the function to import JSON data into Neo4j
