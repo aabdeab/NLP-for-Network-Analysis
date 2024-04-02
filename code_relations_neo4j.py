@@ -25,7 +25,7 @@ def create_relationships(driver):
 # Paramètres de connexion à la base de données Neo4j
 uri = "bolt://localhost:7687"
 username = "neo4j"
-password = "NLPNLPNLP"
+password = "ur_password"
 database = "nlp"
 
 # Établir la connexion à la base de données
